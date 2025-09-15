@@ -1,6 +1,7 @@
 {
     "name": "bikramdhami/fwu",
     "description": "json data about ethnicities,provinces, districts and ethnicities",
+    "type": "library",
     "license": "MIT",
      "repositories": [
         {
@@ -15,7 +16,7 @@
     },
     "authors": [
         {
-            "name": "fwu"
+            "name":"fwu"
         }
     ],
     "minimum-stability": "stable",
