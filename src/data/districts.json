@@ -1,0 +1,1440 @@
+[
+  {
+    "id": 1,
+    "province_id": 7,
+    "name": "Achham",
+    "municipalities": [
+      "Kamalbazar",
+      "Mangalsen",
+      "Panchadewal Binayak",
+      "Sanphebagar"
+    ],
+    "rural_municipalities": [
+      "Bannigadhi Jayagadh",
+      "Chaurpati",
+      "Dhakari",
+      "Mellekh",
+      "Ramaroshan",
+      "Turmakhad"
+    ]
+  },
+  {
+    "id": 2,
+    "province_id": 5,
+    "name": "Arghakhanchi",
+    "municipalities": [
+      "Bhumekasthan",
+      "Sandhikharka",
+      "Sitganga"
+    ],
+    "rural_municipalities": [
+      "Chhatradev",
+      "Malarani",
+      "Panini"
+    ]
+  },
+  {
+    "id": 3,
+    "province_id": 4,
+    "name": "Baglung",
+    "municipalities": [
+      "Baglung",
+      "Dhorpatan",
+      "Galkot",
+      "Jaimuni"
+    ],
+    "rural_municipalities": [
+      "Badigad",
+      "Bareng",
+      "Kanthekhola",
+      "Nisikhola",
+      "Taman Khola",
+      "Tara Khola"
+    ]
+  },
+  {
+    "id": 4,
+    "province_id": 7,
+    "name": "Baitadi",
+    "municipalities": [
+      "Dasharathchanda",
+      "Melauli",
+      "Patan",
+      "Purchaudi"
+    ],
+    "rural_municipalities": [
+      "Dilasaini",
+      "Dogadakedar",
+      "Pancheshwar",
+      "Shivanath",
+      "Sigas",
+      "Surnaya"
+    ]
+  },
+  {
+    "id": 5,
+    "province_id": 7,
+    "name": "Bajhang",
+    "municipalities": [
+      "Bungal",
+      "Jaya Prithivi"
+    ],
+    "rural_municipalities": [
+      "Bithadchir",
+      "Chabispathivera",
+      "Durgathali",
+      "Kanda",
+      "Kedarseu",
+      "Khaptadchhanna",
+      "Masta",
+      "Surma",
+      "Talkot",
+      "Thalara"
+    ]
+  },
+  {
+    "id": 6,
+    "province_id": 7,
+    "name": "Bajura",
+    "municipalities": [
+      "Badimalika",
+      "Budhiganga",
+      "Budhinanda",
+      "Tribeni"
+    ],
+    "rural_municipalities": [
+      "Chhededaha",
+      "Gaumul",
+      "Himali",
+      "Pandav Gupha",
+      "Swami Kartik"
+    ]
+  },
+  {
+    "id": 7,
+    "province_id": 5,
+    "name": "Banke",
+    "municipalities": [
+      "Nepalganj",
+      "Kohalpur"
+    ],
+    "rural_municipalities": [
+      "Baijanath",
+      "Duduwa",
+      "Janki",
+      "Khajura",
+      "Narainapur",
+      "Rapti Sonari"
+    ]
+  },
+  {
+    "id": 8,
+    "province_id": 2,
+    "name": "Bara",
+    "municipalities": [
+      "Jitpur Simara",
+      "Kalaiya",
+      "Kolhabi",
+      "Mahagadhimai",
+      "Nijgadh",
+      "Pacharauta",
+      "Simroungadh"
+    ],
+    "rural_municipalities": [
+      "Adarsh Kotwal",
+      "Baragadhi",
+      "Bishrampur",
+      "Devtal",
+      "Karaiyamai",
+      "Parwanipur",
+      "Pheta",
+      "Prasauni",
+      "Suwarna"
+    ]
+  },
+  {
+    "id": 9,
+    "province_id": 5,
+    "name": "Bardiya",
+    "municipalities": [
+      "Bansgadhi",
+      "Barbardiya",
+      "Gulariya",
+      "Madhuwan",
+      "Rajapur",
+      "Thakurbaba"
+    ],
+    "rural_municipalities": [
+      "Badhaiyatal",
+      "Geruwa"
+    ]
+  },
+  {
+    "id": 10,
+    "province_id": 3,
+    "name": "Bhaktapur",
+    "municipalities": [
+      "Bhaktapur",
+      "Changunarayan",
+      "Madhyapur Thimi",
+      "Suryabinayak"
+    ]
+  },
+  {
+    "id": 11,
+    "province_id": 1,
+    "name": "Bhojpur",
+    "municipalities": [
+      "Bhojpur",
+      "Shadananda"
+    ],
+    "rural_municipalities": [
+      "Aamchowk",
+      "Arun",
+      "Hatuwagadhi",
+      "Pauwadungma",
+      "Ramprasad Rai",
+      "Salpasilichho",
+      "Tyamkemaiyung"
+    ]
+  },
+  {
+    "id": 12,
+    "province_id": 3,
+    "name": "Chitwan",
+    "municipalities": [
+      "Bharatpur",
+      "Kalika",
+      "Khairahani",
+      "Madi",
+      "Rapti",
+      "Ratnangar"
+    ],
+    "rural_municipalities": [
+      "Ichchhyakamana"
+    ]
+  },
+  {
+    "id": 13,
+    "province_id": 7,
+    "name": "Dadeldhura",
+    "municipalities": [
+      "Amargadhi",
+      "Parashuram"
+    ],
+    "rural_municipalities": [
+      "Ajaymeru",
+      "Alital",
+      "Bhageshwar",
+      "Ganayapdhura",
+      "Nawadurga"
+    ]
+  },
+  {
+    "id": 14,
+    "province_id": 6,
+    "name": "Dailekh",
+    "municipalities": [
+      "Aathabis",
+      "Chamunda Bindrasaini",
+      "Dullu",
+      "Narayan"
+    ],
+    "rural_municipalities": [
+      "Bhagawatimai",
+      "Bhairabi",
+      "Dungeshwor",
+      "Gurans",
+      "Mahabu",
+      "Naumule",
+      "Thantikandh"
+    ]
+  },
+  {
+    "id": 15,
+    "province_id": 5,
+    "name": "Dang Deukhuri",
+    "municipalities": [
+      "Ghorahi",
+      "Tulsipur",
+      "Lamahi"
+    ],
+    "rural_municipalities": [
+      "Babai",
+      "Banglachuli",
+      "Dangisharan",
+      "Gadhawa",
+      "Rajpur",
+      "Rapti",
+      "Shantinagar"
+    ]
+  },
+  {
+    "id": 16,
+    "province_id": 7,
+    "name": "Darchula",
+    "municipalities": [
+      "Mahakali",
+      "Shailyashikhar"
+    ],
+    "rural_municipalities": [
+      "Apihimal",
+      "Byas",
+      "Dunhu",
+      "Lekam",
+      "Malikarjun",
+      "Marma",
+      "Naugad"
+    ]
+  },
+  {
+    "id": 17,
+    "province_id": 3,
+    "name": "Dhading",
+    "municipalities": [
+      "Dhunibesi",
+      "Nilakantha"
+    ],
+    "rural_municipalities": [
+      "Benighat Rorang",
+      "Gajuri",
+      "Galchi",
+      "Gangajamuna",
+      "Jwalamukhi",
+      "Khaniyabash",
+      "Netrawati",
+      "Rubi Valley",
+      "Siddhalek",
+      "Thakre",
+      "Tripurasundari"
+    ]
+  },
+  {
+    "id": 18,
+    "province_id": 1,
+    "name": "Dhankuta",
+    "municipalities": [
+      "Dhankuta",
+      "Mahalaxmi",
+      "Pakhribas"
+    ],
+    "rural_municipalities": [
+      "Chaubise",
+      "Chhathar Jorpati",
+      "Khalsa Chhintang Shahidbhumi",
+      "Sangurigadhi"
+    ]
+  },
+  {
+    "id": 19,
+    "province_id": 2,
+    "name": "Dhanusa",
+    "municipalities": [
+      "Janakpur",
+      "Bidehi",
+      "Chhireshwornath",
+      "Dhanusadham",
+      "Ganeshman Charnath",
+      "Hansapur",
+      "Kamala",
+      "Mithila",
+      "Mithila Bihari",
+      "Nagarain",
+      "Sabaila",
+      "Sahidnagar"
+    ],
+    "rural_municipalities": [
+      "Aurahi",
+      "Bateshwor",
+      "Dhanauji",
+      "Janaknandini",
+      "Lakshminiya",
+      "Mithila Bihari",
+      "Mukhiyapatti Musaharniya"
+    ]
+  },
+  {
+    "id": 20,
+    "province_id": 3,
+    "name": "Dolakha",
+    "municipalities": [
+      "Bhimeshwor",
+      "Jiri"
+    ],
+    "rural_municipalities": [
+      "Baiteshwor",
+      "Bigu",
+      "Gaurishankar",
+      "Kalinchok",
+      "Melung",
+      "Sailung",
+      "Tamakoshi"
+    ]
+  },
+  {
+    "id": 21,
+    "province_id": 6,
+    "name": "Dolpa",
+    "municipalities": [
+      "Thuli Bheri",
+      "Tripurasundari"
+    ],
+    "rural_municipalities": [
+      "Chharka Tangsong",
+      "Dolpo Buddha",
+      "Jagadulla",
+      "Kaike",
+      "Mudkechula",
+      "Shey Phoksundo"
+    ]
+  },
+  {
+    "id": 22,
+    "province_id": 7,
+    "name": "Doti",
+    "municipalities": [
+      "Dipayal Silgadhi",
+      "Shikhar"
+    ],
+    "rural_municipalities": [
+      "Adharsha",
+      "Badikedar",
+      "Bogtan",
+      "Jorayal",
+      "K I Singh",
+      "Purbichauki",
+      "Sayal"
+    ]
+  },
+  {
+    "id": 23,
+    "province_id": 4,
+    "name": "Gorkha",
+    "municipalities": [
+      "Gorkha",
+      "Palungtar"
+    ],
+    "rural_municipalities": [
+      "Aarughat",
+      "Ajirkot",
+      "Bhimsen",
+      "Chum Nubri",
+      "Dharche",
+      "Gandaki",
+      "Sahid Lakhan",
+      "Siranchok",
+      "Sulikot"
+    ]
+  },
+  {
+    "id": 24,
+    "province_id": 4,
+    "name": "Gulmi",
+    "municipalities": [
+      "Musikot",
+      "Resunga"
+    ],
+    "rural_municipalities": [
+      "Chandrakot",
+      "Chatrakot",
+      "Dhurkot",
+      "Gulmidarbar",
+      "Isma",
+      "Kaligandaki",
+      "Madane",
+      "Malika",
+      "Ruru",
+      "Satyawati"
+    ]
+  },
+  {
+    "id": 25,
+    "province_id": 6,
+    "name": "Humla",
+    "municipalities": [],
+    "rural_municipalities": [
+      "Adanchuli",
+      "Chankheli",
+      "Kharpunath",
+      "Namkha",
+      "Sarkegad",
+      "Simkot",
+      "Tanjakot"
+    ]
+  },
+  {
+    "id": 26,
+    "province_id": 1,
+    "name": "Ilam",
+    "municipalities": [
+      "Deumai",
+      "Ilam",
+      "Mai",
+      "Suryodaya"
+    ],
+    "rural_municipalities": [
+      "Chulachuli",
+      "Fakphokthum",
+      "Maijogmai",
+      "Mangsebung",
+      "Rong",
+      "Sandakpur"
+    ]
+  },
+  {
+    "id": 27,
+    "province_id": 6,
+    "name": "Jajarkot",
+    "municipalities": [
+      "Bheri",
+      "Chhedagad",
+      "Tribeni Nalagad"
+    ],
+    "rural_municipalities": [
+      "Barekot",
+      "Junichande",
+      "Kuse",
+      "Shiwalaya"
+    ]
+  },
+  {
+    "id": 28,
+    "province_id": 1,
+    "name": "Jhapa",
+    "municipalities": [
+      "Arjundhara",
+      "Bhadrapur",
+      "Birtamod",
+      "Damak",
+      "Gauradhaha",
+      "Kankai",
+      "Mechinagar",
+      "Shivasataxi"
+    ],
+    "rural_municipalities": [
+      "Barhadashi",
+      "Buddhashanti",
+      "Gauriganj",
+      "Haldibari",
+      "Jhapa",
+      "Kachankawal",
+      "Kamal"
+    ]
+  },
+  {
+    "id": 29,
+    "province_id": 6,
+    "name": "Jumla",
+    "municipalities": [
+      "Chandannath"
+    ],
+    "rural_municipalities": [
+      "Guthichaur",
+      "Hima",
+      "Kanakasundari",
+      "Patrasi",
+      "Sinja",
+      "Tatopani",
+      "Tila"
+    ]
+  },
+  {
+    "id": 30,
+    "province_id": 3,
+    "name": "Kavrepalanchok",
+    "municipalities": [
+      "Banepa",
+      "Dhulikhel",
+      "Mandandeupur",
+      "Namobuddha",
+      "Panauti",
+      "Panchkhal"
+    ],
+    "rural_municipalities": [
+      "Bethanchowk",
+      "Bhumlu",
+      "Chaurideurali",
+      "Khanikhola",
+      "Mahabharat",
+      "Roshi",
+      "Temal"
+    ]
+  },
+  {
+    "id": 31,
+    "province_id": 7,
+    "name": "Kailali",
+    "municipalities": [
+      "Dhangadhi",
+      "Bhajani",
+      "Gauriganga",
+      "Ghodaghodi",
+      "Godawari",
+      "Lamkichuha",
+      "Tikapur"
+    ],
+    "rural_municipalities": [
+      "Bardagoriya",
+      "Chure",
+      "Janaki",
+      "Joshipur",
+      "Kailari",
+      "Mohanyal"
+    ]
+  },
+  {
+    "id": 32,
+    "province_id": 6,
+    "name": "Kalikot",
+    "municipalities": [
+      "Khandachakra",
+      "Raskot",
+      "Tilagufa"
+    ],
+    "rural_municipalities": [
+      "Kalika",
+      "Mahawai",
+      "Naraharinath",
+      "Pachaljharana",
+      "Palata",
+      "Sanni Tribeni"
+    ]
+  },
+  {
+    "id": 33,
+    "province_id": 7,
+    "name": "Kanchanpur",
+    "municipalities": [
+      "Bedkot",
+      "Belauri",
+      "Bhimdatta",
+      "Krishnapur",
+      "Mahakali",
+      "Punarbas",
+      "Suklaphanta"
+    ],
+    "rural_municipalities": [
+      "Beldandi",
+      "Laljhandi"
+    ]
+  },
+  {
+    "id": 34,
+    "province_id": 5,
+    "name": "Kapilvastu",
+    "municipalities": [
+      "Banganga",
+      "Buddhabhumi",
+      "Kapilbastu",
+      "Krishnanagar",
+      "Maharajgunj",
+      "Shivaraj"
+    ],
+    "rural_municipalities": [
+      "Bijayanagar",
+      "Mayadevi",
+      "Suddhodhan",
+      "Yashodhara"
+    ]
+  },
+  {
+    "id": 35,
+    "province_id": 4,
+    "name": "Kaski",
+    "municipalities": [
+      "Pokhara Lekhnath"
+    ],
+    "rural_municipalities": [
+      "Annapurna",
+      "Machhapuchchhre",
+      "Madi",
+      "Rupa"
+    ]
+  },
+  {
+    "id": 36,
+    "province_id": 3,
+    "name": "Kathmandu",
+    "municipalities": [
+      "Kathmandu",
+      "Budhanilakantha",
+      "Chandragiri",
+      "Dakshinkali",
+      "Gokarneshwor",
+      "Kageshwori Manahara",
+      "Kirtipur",
+      "Nagarjun",
+      "Shankharapur",
+      "Tarakeshwar",
+      "Tokha"
+    ]
+  },
+  {
+    "id": 37,
+    "province_id": 1,
+    "name": "Khotang",
+    "municipalities": [
+      "Halesi Tuwachung",
+      "Rupakot Majhuwagadhi"
+    ],
+    "rural_municipalities": [
+      "Ainselukhark",
+      "Barahapokhari",
+      "Diprung",
+      "Jantedhunga",
+      "Kepilasagadhi",
+      "Khotehang",
+      "Lamidanda",
+      "Sakela"
+    ]
+  },
+  {
+    "id": 38,
+    "province_id": 3,
+    "name": "Lalitpur",
+    "municipalities": [
+      "Lalitpur",
+      "Godawari",
+      "Mahalaxmi"
+    ],
+    "rural_municipalities": [
+      "Bagmati",
+      "Konjyosom",
+      "Mahankal"
+    ]
+  },
+  {
+    "id": 39,
+    "province_id": 4,
+    "name": "Lamjung",
+    "municipalities": [
+      "Besishahar",
+      "Madhyanepal",
+      "Rainas",
+      "Sundarbazar"
+    ],
+    "rural_municipalities": [
+      "Dordi",
+      "Dudhpokhari",
+      "Kwholasothar",
+      "Marsyangdi"
+    ]
+  },
+  {
+    "id": 40,
+    "province_id": 2,
+    "name": "Mahottari",
+    "municipalities": [
+      "Aurahi",
+      "Balwa",
+      "Bardibas",
+      "Bhangaha",
+      "Gaushala",
+      "Jaleswar",
+      "Loharpatti",
+      "Manra Sisawa",
+      "Matihani",
+      "Ramgopalpur"
+    ],
+    "rural_municipalities": [
+      "Ekdanra",
+      "Mahottari",
+      "Pipra",
+      "Samsi",
+      "Sonama"
+    ]
+  },
+  {
+    "id": 41,
+    "province_id": 3,
+    "name": "Makwanpur",
+    "municipalities": [
+      "Hetauda",
+      "Thaha"
+    ],
+    "rural_municipalities": [
+      "Bagmati",
+      "Bakaiya",
+      "Bhimphedi",
+      "Indrasarowar",
+      "Kailash",
+      "Makawanpurgadhi",
+      "Manahari",
+      "Raksirang"
+    ]
+  },
+  {
+    "id": 42,
+    "province_id": 4,
+    "name": "Manang",
+    "municipalities": [],
+    "rural_municipalities": [
+      "Chame",
+      "Narphu",
+      "Nashong",
+      "Neshyang"
+    ]
+  },
+  {
+    "id": 43,
+    "province_id": 1,
+    "name": "Morang",
+    "municipalities": [
+      "Biratnagar",
+      "Belbari",
+      "Letang",
+      "Patahri Shanishchare",
+      "Rangeli",
+      "Ratuwamai",
+      "Sundarharaicha",
+      "Sunwarshi",
+      "Uralabari"
+    ],
+    "rural_municipalities": [
+      "Budhiganga",
+      "Dhanpalthan",
+      "Gramthan",
+      "Jahada",
+      "Kanepokhari",
+      "Katahari",
+      "Kerabari",
+      "Miklajung"
+    ]
+  },
+  {
+    "id": 44,
+    "province_id": 6,
+    "name": "Mugu",
+    "municipalities": [
+      "Chhayanath Rara"
+    ],
+    "rural_municipalities": [
+      "Khatyad",
+      "Mugum Karmarong",
+      "Soru"
+    ]
+  },
+  {
+    "id": 45,
+    "province_id": 4,
+    "name": "Mustang",
+    "municipalities": [],
+    "rural_municipalities": [
+      "Barhagaun Muktikshetra",
+      "Dalome",
+      "Gharapjhong",
+      "Lomanthang",
+      "Thasang"
+    ]
+  },
+  {
+    "id": 46,
+    "province_id": 4,
+    "name": "Myagdi",
+    "municipalities": [
+      "Beni"
+    ],
+    "rural_municipalities": [
+      "Annapurna",
+      "Dhaulagiri",
+      "Malika",
+      "Mangala",
+      "Raghuganga"
+    ]
+  },
+  {
+    "id": 47,
+    "province_id": 5,
+    "name": "Nawalparasi (East)",
+    "municipalities": [
+      "Devchuli",
+      "Gaidakot",
+      "Kawaswoti",
+      "Madhyabindu"
+    ],
+    "rural_municipalities": [
+      "Binayee Triveni",
+      "Bulingtar",
+      "Bungdikali",
+      "Hupsekot"
+    ]
+  },
+  {
+    "id": 48,
+    "province_id": 5,
+    "name": "Nawalparasi (West)",
+    "municipalities": [
+      "Bardaghat",
+      "Ramgram",
+      "Sunwal"
+    ],
+    "rural_municipalities": [
+      "Palhi Nandan",
+      "Pratappur",
+      "Sarawal",
+      "Susta"
+    ]
+  },
+  {
+    "id": 49,
+    "province_id": 3,
+    "name": "Nuwakot",
+    "municipalities": [
+      "Belkotgadhi",
+      "Bidur"
+    ],
+    "rural_municipalities": [
+      "Dupcheshwar",
+      "Kakani",
+      "Kispang",
+      "Likhu",
+      "Meghang",
+      "Panchakanya",
+      "Shivapuri",
+      "Suryagadhi",
+      "Tadi",
+      "Tarkeshwar"
+    ]
+  },
+  {
+    "id": 50,
+    "province_id": 1,
+    "name": "Okhaldhunga",
+    "municipalities": [
+      "Siddhicharan"
+    ],
+    "rural_municipalities": [
+      "Champadevi",
+      "Chisankhugadhi",
+      "Khijidemba",
+      "Likhu",
+      "Manebhanjyang",
+      "Molung",
+      "Sunkoshi"
+    ]
+  },
+  {
+    "id": 51,
+    "province_id": 5,
+    "name": "Palpa",
+    "municipalities": [
+      "Rampur",
+      "Tansen"
+    ],
+    "rural_municipalities": [
+      "Bagnaskali",
+      "Mathagadhi",
+      "Nisdi",
+      "Purbakhola",
+      "Rainadevi Chhahara",
+      "Rambha",
+      "Ribdikot",
+      "Tinau"
+    ]
+  },
+  {
+    "id": 52,
+    "province_id": 1,
+    "name": "Panchthar",
+    "municipalities": [
+      "Phidim"
+    ],
+    "rural_municipalities": [
+      "Falelung",
+      "Falgunanda",
+      "Hilihang",
+      "Kummayak",
+      "Miklajung",
+      "Tumbewa",
+      "Yangwarak"
+    ]
+  },
+  {
+    "id": 53,
+    "province_id": 2,
+    "name": "Parsa",
+    "municipalities": [
+      "Birgunj",
+      "Bahudaramai",
+      "Parsagadi",
+      "Pokhariya"
+    ],
+    "rural_municipalities": [
+      "Bindabasini",
+      "Chhipaharmai",
+      "Dhobini",
+      "Jagarnathpur",
+      "Jira Bhawani",
+      "Kalikamai",
+      "Pakahamainpur",
+      "Paterwasugauli",
+      "Sakhuwa Prasauni",
+      "Thori"
+    ]
+  },
+  {
+    "id": 54,
+    "province_id": 4,
+    "name": "Parbat",
+    "municipalities": [
+      "Kushma",
+      "Phalebas"
+    ],
+    "rural_municipalities": [
+      "Bihadi",
+      "Jaljala",
+      "Mahashila",
+      "Modi",
+      "Painyu"
+    ]
+  },
+  {
+    "id": 55,
+    "province_id": 5,
+    "name": "Pyuthan",
+    "municipalities": [
+      "Pyuthan",
+      "Sworgadwary"
+    ],
+    "rural_municipalities": [
+      "Ayirabati",
+      "Gaumukhi",
+      "Jhimruk",
+      "Mallarani",
+      "Mandavi",
+      "Naubahini",
+      "Sarumarani"
+    ]
+  },
+  {
+    "id": 56,
+    "province_id": 1,
+    "name": "Ramechhap",
+    "municipalities": [
+      "Manthali",
+      "Ramechhap"
+    ],
+    "rural_municipalities": [
+      "Doramba",
+      "Gokulganga",
+      "Khadadevi",
+      "Likhu",
+      "Sunapati",
+      "Umakunda"
+    ]
+  },
+  {
+    "id": 57,
+    "province_id": 3,
+    "name": "Rasuwa",
+    "municipalities": [],
+    "rural_municipalities": [
+      "Gosaikunda",
+      "Kalika",
+      "Naukunda",
+      "Parbatikunda",
+      "Uttargaya"
+    ]
+  },
+  {
+    "id": 58,
+    "province_id": 2,
+    "name": "Rautahat",
+    "municipalities": [
+      "Baudhimai",
+      "Brindaban",
+      "Chandrapur",
+      "Devahi Gonahi",
+      "Gadhimai",
+      "Garuda",
+      "Gaur",
+      "Gujara",
+      "Ishanath",
+      "Katahariya",
+      "Madav Narayan",
+      "Maulapur",
+      "Paroha",
+      "Phatuwa Bijayapur",
+      "Rajdevi",
+      "Rajpur"
+    ],
+    "rural_municipalities": [
+      "Durga Bhagawati",
+      "Yamunamai"
+    ]
+  },
+  {
+    "id": 59,
+    "province_id": 6,
+    "name": "Rolpa",
+    "municipalities": [
+      "Rolpa"
+    ],
+    "rural_municipalities": [
+      "Duikholi",
+      "Lungri",
+      "Madi",
+      "Runtigadi",
+      "Sukidaha",
+      "Sunchhahari",
+      "Suwarnabati",
+      "Thawang",
+      "Tribeni"
+    ]
+  },
+  {
+    "id": 60,
+    "province_id": 6,
+    "name": "Rukum (East)",
+    "municipalities": [],
+    "rural_municipalities": [
+      "Bhume",
+      "Putha Uttarganga",
+      "Sisne"
+    ]
+  },
+  {
+    "id": 61,
+    "province_id": 6,
+    "name": "Rukum (West)",
+    "municipalities": [
+      "Aathbiskot",
+      "Chaurjahari",
+      "Musikot"
+    ],
+    "rural_municipalities": [
+      "Banfikot",
+      "Sani Bheri",
+      "Tribeni"
+    ]
+  },
+  {
+    "id": 62,
+    "province_id": 5,
+    "name": "Rupandehi",
+    "municipalities": [
+      "Butwal",
+      "Devdaha",
+      "Lumbini Sanskritik",
+      "Sainamaina",
+      "Siddharthanagar",
+      "Tilottama"
+    ],
+    "rural_municipalities": [
+      "Gaidahawa",
+      "Kanchan",
+      "Kotahimai",
+      "Marchawari",
+      "Mayadevi",
+      "Omsatiya",
+      "Rohini",
+      "Sammarimai",
+      "Siyari",
+      "Sudhdhodhan"
+    ]
+  },
+  {
+    "id": 63,
+    "province_id": 6,
+    "name": "Salyan",
+    "municipalities": [
+      "Bagchaur",
+      "Bangad Kupinde",
+      "Sharada"
+    ],
+    "rural_municipalities": [
+      "Chhatreshwori",
+      "Darma",
+      "Dhorchaur",
+      "Kalimati",
+      "Kapurkot",
+      "Kumakhmalika",
+      "Tribeni"
+    ]
+  },
+  {
+    "id": 64,
+    "province_id": 1,
+    "name": "Sankhuwasabha",
+    "municipalities": [
+      "Chainpur",
+      "Dharmadevi",
+      "Khandbari",
+      "Madi",
+      "Panchakhapan"
+    ],
+    "rural_municipalities": [
+      "Bhotkhola",
+      "Chichila",
+      "Makalu",
+      "Sabhapokhari",
+      "Silichong"
+    ]
+  },
+  {
+    "id": 65,
+    "province_id": 2,
+    "name": "Saptari",
+    "municipalities": [
+      "Bodebarsaien",
+      "Dakneshwori",
+      "Hanumannagar Kankalani",
+      "Kanchanrup",
+      "Khadak",
+      "Rajbiraj",
+      "Saptakoshi",
+      "Shambhunath",
+      "Surunga"
+    ],
+    "rural_municipalities": [
+      "Agnisair Krishnasavaran",
+      "Belhi Chapena",
+      "Bishnupur",
+      "Chhinnamasta",
+      "Mahadeva",
+      "Rupani",
+      "Tilathi Koiladi",
+      "Tirahut",
+      "Walan Bihul"
+    ]
+  },
+  {
+    "id": 66,
+    "province_id": 2,
+    "name": "Sarlahi",
+    "municipalities": [
+      "Bagmati",
+      "Balara",
+      "Barahathawa",
+      "Godaita",
+      "Haripur",
+      "Haripurwa",
+      "Hariwan",
+      "Ishworpur",
+      "Kabilasi",
+      "Lalbandi",
+      "Malangawa"
+    ],
+    "rural_municipalities": [
+      "Basbariya",
+      "Bishnu",
+      "Brahmapuri",
+      "Chakraghatta",
+      "Chandranagar",
+      "Dhankaul",
+      "Kaudena",
+      "Parsa",
+      "Ramnagar"
+    ]
+  },
+  {
+    "id": 67,
+    "province_id": 3,
+    "name": "Sindhuli",
+    "municipalities": [
+      "Dudhouli",
+      "Kamalamai"
+    ],
+    "rural_municipalities": [
+      "Ghanglekh",
+      "Golanjor",
+      "Hariharpurgadhi",
+      "Marin",
+      "Phikkal",
+      "Sunkoshi",
+      "Tinpatan"
+    ]
+  },
+  {
+    "id": 68,
+    "province_id": 3,
+    "name": "Sindhupalchok",
+    "municipalities": [
+      "Barhabise",
+      "Chautara Sangachokgadhi",
+      "Melamchi"
+    ],
+    "rural_municipalities": [
+      "Balefi",
+      "Bhotekoshi",
+      "Helambu",
+      "Indrawati",
+      "Jugal",
+      "Lisankhu Pakhar",
+      "Panchpokhari Thangpal",
+      "Sunkoshi",
+      "Tripurasundari"
+    ]
+  },
+  {
+    "id": 69,
+    "province_id": 2,
+    "name": "Siraha",
+    "municipalities": [
+      "Dhangadhimai",
+      "Golbazar",
+      "Kalyanpur",
+      "Karjanha",
+      "Lahan",
+      "Mirchaiya",
+      "Siraha",
+      "Sukhipur"
+    ],
+    "rural_municipalities": [
+      "Arnama",
+      "Aurahi",
+      "Bariyarpatti",
+      "Bhagawanpur",
+      "Bishnupur",
+      "Laxmipur patari",
+      "Naraha",
+      "Navarajpur",
+      "Sakhuwanankarkatti"
+    ]
+  },
+  {
+    "id": 70,
+    "province_id": 1,
+    "name": "Solukhumbu",
+    "municipalities": [
+      "Solududhakunda"
+    ],
+    "rural_municipalities": [
+      "Dudhkaushika",
+      "Dudhkoshi",
+      "Khumbu Pasanglahmu",
+      "Likhupike",
+      "Mahakulung",
+      "Nechasalyan",
+      "Sotang"
+    ]
+  },
+  {
+    "id": 71,
+    "province_id": 1,
+    "name": "Sunsari",
+    "municipalities": [
+      "Dharan",
+      "Itahari",
+      "Barah",
+      "Duhabi",
+      "Inarwa",
+      "Ramdhuni"
+    ],
+    "rural_municipalities": [
+      "Barju",
+      "Bhokraha",
+      "Dewanganj",
+      "Gadhi",
+      "Harinagara",
+      "Koshi"
+    ]
+  },
+  {
+    "id": 72,
+    "province_id": 6,
+    "name": "Surkhet",
+    "municipalities": [
+      "Bheriganga",
+      "Birendranagar",
+      "Gurbhakot",
+      "Lekbesi",
+      "Panchpuri"
+    ],
+    "rural_municipalities": [
+      "Barahtal",
+      "Chaukune",
+      "Chingad",
+      "Simta"
+    ]
+  },
+  {
+    "id": 73,
+    "province_id": 4,
+    "name": "Syangja",
+    "municipalities": [
+      "Bhirkot",
+      "Chapakot",
+      "Galyang",
+      "Putalibazar",
+      "Waling"
+    ],
+    "rural_municipalities": [
+      "Aandhikhola",
+      "Arjunchaupari",
+      "Biruwa",
+      "Harinas",
+      "Kaligandagi",
+      "Phedikhola"
+    ]
+  },
+  {
+    "id": 74,
+    "province_id": 4,
+    "name": "Tanahun",
+    "municipalities": [
+      "Bhanu",
+      "Bhimad",
+      "Byas",
+      "Shuklagandaki"
+    ],
+    "rural_municipalities": [
+      "Anbukhaireni",
+      "Bandipur",
+      "Devghat",
+      "Ghiring",
+      "Myagde",
+      "Rhishing"
+    ]
+  },
+  {
+    "id": 75,
+    "province_id": 1,
+    "name": "Taplejung",
+    "municipalities": [
+      "Phungling"
+    ],
+    "rural_municipalities": [
+      "Aathrai Tribeni",
+      "Maiwakhola",
+      "Meringden",
+      "Mikwakhola",
+      "Phaktanglung",
+      "Sidingba",
+      "Sirijangha",
+      "Yangwarak"
+    ]
+  },
+  {
+    "id": 76,
+    "province_id": 1,
+    "name": "Terhathum",
+    "municipalities": [
+      "Laligurans",
+      "Myanglung"
+    ],
+    "rural_municipalities": [
+      "Aathrai",
+      "Chhathar",
+      "Menchayam",
+      "Phedap"
+    ]
+  },
+  {
+    "id": 77,
+    "province_id": 1,
+    "name": "Udayapur",
+    "municipalities": [
+      "Belaka",
+      "Chaudandigadhi",
+      "Katari",
+      "Triyuga"
+    ],
+    "rural_municipalities": [
+      "Rautamai",
+      "Sunkoshi",
+      "Tapli",
+      "Udayapurgadhi"
+    ]
+  }
+]
