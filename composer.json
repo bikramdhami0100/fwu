@@ -13,7 +13,5 @@
             "name":"fwu"
         }
     ],
-    "minimum-stability": "stable",
     "require": {}
 }
-
