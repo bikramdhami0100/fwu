@@ -1,14 +1,8 @@
 {
     "name": "bikramdhami/fwu",
-    "description": "json data about ethnicities,provinces, districts and ethnicities",
+    "description": "JSON data about ethnicities, provinces, and districts",
     "type": "library",
     "license": "MIT",
-     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/bikramdhami0100/fwu"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "Bikramdhami\\Fwu\\": "src/"
@@ -16,12 +10,8 @@
     },
     "authors": [
         {
-            "name":"fwu"
+            "name": "Bikram Dhami"
         }
     ],
-    "minimum-stability": "stable",
-    "prefer-stable": true,
-    "version": "1.0.0",
     "require": {}
 }
-
