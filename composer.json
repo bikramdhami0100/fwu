@@ -1,17 +1,19 @@
 {
-    "name": "bikramdhami/fwu",
-    "description": "JSON data about ethnicities, provinces, and districts",
+    "name": "bikramdhami0011/fwu",
+    "description": "json data about ethnicities,provinces, districts and ethnicities",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Bikramdhami\\Fwu\\": "src/"
+            "Bikramdhami0011\\Fwu\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Bikram Dhami"
+            "name":"fwu"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
+
